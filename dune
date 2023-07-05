@@ -1,6 +1,7 @@
 (library
  (name result)
  (public_name result)
+ (modes :standard melange)
  (modules result))
 
 (rule
